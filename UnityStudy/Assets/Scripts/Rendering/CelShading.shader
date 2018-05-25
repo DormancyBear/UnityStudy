@@ -2,11 +2,44 @@
 	Properties{
 		_Color("Color", Color) = (1,1,1,1)
 		_MainTex("Albedo (RGB)", 2D) = "white" {}
+		_Outline("Outline", Range(0, 0.05)) = 0.01
+		_OutlineColor("OutlineColor", Color) = (0, 0, 0, 1)
 	}
 		SubShader{
 			Tags { "RenderType" = "Opaque" }
 			LOD 200
 
+		// 先渲染外边轮廓
+		Cull Front
+		CGPROGRAM
+
+		#pragma surface surf Lambert vertex:vert
+
+		sampler2D _MainTex;
+	fixed4 _Color;
+	float _Outline;
+	fixed4 _OutlineColor;
+
+	struct Input
+	{
+		float2 uv_MainTex;
+	};
+
+	void surf(Input IN, inout SurfaceOutput o)
+	{
+		fixed4 c = _OutlineColor;
+		o.Albedo = c.rgb;
+		o.Alpha = c.a;
+	}
+
+	void vert(inout appdata_full v)
+	{
+		v.vertex.xyz += v.normal * _Outline;
+	}
+	ENDCG
+
+		// 后渲染实际模型
+		Cull Back
 			CGPROGRAM
 		//#pragma surface surf CustomLambert
 		#pragma surface surf CelShading
