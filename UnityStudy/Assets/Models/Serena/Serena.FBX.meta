@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 30a68b0e3bc92d94394d87f6ce383f34
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BagA
+    100002: BagB
+    100004: BagC
+    100006: BagD
+    100008: BHair1
+    100010: BHair2
+    100012: BHair3
+    100014: FJlipL
+    100016: FJlipU
+    100018: FJteethL
+    100020: FJteethU
+    100022: Head
+    100024: Hips
+    100026: LArmA
+    100028: LArmB
+    100030: LFingerA1
+    100032: LFingerA2
+    100034: LFingerA3
+    100036: LFingerB1
+    100038: LFingerB2
+    100040: LFingerB3
+    100042: LFingerC1
+    100044: LFingerC2
+    100046: LFingerC3
+    100048: LFingerD1
+    100050: LFingerD2
+    100052: LFingerD3
+    100054: LFJLipS
+    100056: LFoot
+    100058: LForeArm
+    100060: LHair1
+    100062: LHair2
+    100064: LHair3
+    100066: LHand
+    100068: LHandEX
+    100070: LLeg
+    100072: LRing
+    100074: LShoulder
+    100076: LThigh
+    100078: LToe
+    100080: Neck
+    100082: Origin
+    100084: pc_g_ball
+    100086: pc_g_ball02
+    100088: pc_g_ball03
+    100090: RArmA
+    100092: RArmB
+    100094: RFingerA1
+    100096: RFingerA2
+    100098: RFingerA3
+    100100: RFingerB1
+    100102: RFingerB2
+    100104: RFingerB3
+    100106: RFingerC1
+    100108: RFingerC2
+    100110: RFingerC3
+    100112: RFingerD1
+    100114: RFingerD2
+    100116: RFingerD3
+    100118: RFJLipS
+    100120: RFoot
+    100122: RForeArm
+    100124: RHair1
+    100126: RHair2
+    100128: RHair3
+    100130: RHand
+    100132: RHandEX
+    100134: RLeg
+    100136: RShoulder
+    100138: RThigh
+    100140: RToe
+    100142: Serena
+    100144: //RootNode
+    100146: Spine1
+    100148: Spine2
+    100150: Spine3
+    100152: tr0001_00_ba
+    100154: Waist
+    400000: BagA
+    400002: BagB
+    400004: BagC
+    400006: BagD
+    400008: BHair1
+    400010: BHair2
+    400012: BHair3
+    400014: FJlipL
+    400016: FJlipU
+    400018: FJteethL
+    400020: FJteethU
+    400022: Head
+    400024: Hips
+    400026: LArmA
+    400028: LArmB
+    400030: LFingerA1
+    400032: LFingerA2
+    400034: LFingerA3
+    400036: LFingerB1
+    400038: LFingerB2
+    400040: LFingerB3
+    400042: LFingerC1
+    400044: LFingerC2
+    400046: LFingerC3
+    400048: LFingerD1
+    400050: LFingerD2
+    400052: LFingerD3
+    400054: LFJLipS
+    400056: LFoot
+    400058: LForeArm
+    400060: LHair1
+    400062: LHair2
+    400064: LHair3
+    400066: LHand
+    400068: LHandEX
+    400070: LLeg
+    400072: LRing
+    400074: LShoulder
+    400076: LThigh
+    400078: LToe
+    400080: Neck
+    400082: Origin
+    400084: pc_g_ball
+    400086: pc_g_ball02
+    400088: pc_g_ball03
+    400090: RArmA
+    400092: RArmB
+    400094: RFingerA1
+    400096: RFingerA2
+    400098: RFingerA3
+    400100: RFingerB1
+    400102: RFingerB2
+    400104: RFingerB3
+    400106: RFingerC1
+    400108: RFingerC2
+    400110: RFingerC3
+    400112: RFingerD1
+    400114: RFingerD2
+    400116: RFingerD3
+    400118: RFJLipS
+    400120: RFoot
+    400122: RForeArm
+    400124: RHair1
+    400126: RHair2
+    400128: RHair3
+    400130: RHand
+    400132: RHandEX
+    400134: RLeg
+    400136: RShoulder
+    400138: RThigh
+    400140: RToe
+    400142: //RootNode
+    400144: Serena
+    400146: Spine1
+    400148: Spine2
+    400150: Spine3
+    400152: tr0001_00_ba
+    400154: Waist
+    2100000: 'Material #290'
+    2100002: 'Material #291'
+    2100004: 'Material #292'
+    2100006: 'Material #293'
+    2100008: 'Material #294'
+    2100010: 'Material #295'
+    2100012: 'Material #296'
+    2100014: 'Material #297'
+    2100016: 'Material #298'
+    2100018: 'Material #299'
+    2100020: 'Material #300'
+    4300000: Serena
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Serena
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #290'
+    second: {fileID: 2100000, guid: ae9508a0192d52141a1334d0c031ce3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #291'
+    second: {fileID: 2100000, guid: 2603922e64859744f81897e0b611e3f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #292'
+    second: {fileID: 2100000, guid: 322b5336f864a864aa0cee40f50534ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #293'
+    second: {fileID: 2100000, guid: 056323509c8090c4797339c033f1fa90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #294'
+    second: {fileID: 2100000, guid: 1b2d571084b449d49a95a92f3acfe1b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #295'
+    second: {fileID: 2100000, guid: 210f1007122a2a543832726824a9391e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #296'
+    second: {fileID: 2100000, guid: 138d8c793a384734f8b77c00b976f123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #297'
+    second: {fileID: 2100000, guid: 64b611a31fb166e458c8a8c8e6ce450b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #298'
+    second: {fileID: 2100000, guid: 0ec2b75b2491c104c9aec3ee3cf77642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #299'
+    second: {fileID: 2100000, guid: b5813529265c2b148970f5ac3c9aa14d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #300'
+    second: {fileID: 2100000, guid: 7a8d6588991248c408babe6e987d90fd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_accehat02
+    second: {fileID: 2800000, guid: 2b54c7c2baa5b5146913edaae575735e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_bag01
+    second: {fileID: 2800000, guid: 53466e49a3ea27942a3fa87899d4c622, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_bangle
+    second: {fileID: 2800000, guid: 6cd297f6b8a0a8d498a8ddae7aed8e62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_bottoms
+    second: {fileID: 2800000, guid: 1db34ff4d3435604caa8e1743e12433f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_face_on_0
+    second: {fileID: 2800000, guid: bf88b78cea4d68a429c91b739fb65a2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_face_on_1
+    second: {fileID: 2800000, guid: 317c9058adbc543489f906b36436f3be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_hairlong_on
+    second: {fileID: 2800000, guid: 172e7b9af5d5490418c72b71e8abf240, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_hat01
+    second: {fileID: 2800000, guid: 2086fc96a815fa345a138612002befa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_shoes
+    second: {fileID: 2800000, guid: d70058e7df1894d4a88d674fd86ae74a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_socks_none
+    second: {fileID: 2800000, guid: 85056f429f4dc2945ac1085c4b2b90b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nb1_tops
+    second: {fileID: 2800000, guid: 4c1674cfbd828f74180c1a4558111c8e, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

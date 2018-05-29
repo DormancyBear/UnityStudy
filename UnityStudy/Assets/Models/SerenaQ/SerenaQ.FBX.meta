@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 2eb54f5f5f63faa4cbe98eeeccd5c16c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BagA
+    100004: BagB
+    100006: BagC
+    100008: Hair1
+    100010: Hair2
+    100012: Head
+    100014: Hips
+    100016: LArmA
+    100018: LFingerA1
+    100020: LFingerB1
+    100022: LFoot
+    100024: LForeArm
+    100026: LHand
+    100028: LHandEX
+    100030: LLeg
+    100032: loc_eye
+    100034: loc_head
+    100036: loc_mouth
+    100038: LShoulder
+    100040: LThigh
+    100042: LToe
+    100044: mesh_0_bag
+    100046: mesh_1_face
+    100048: mesh_2_hair
+    100050: mesh_3_sw_parts01
+    100052: Neck
+    100054: Origin
+    100056: RArmA
+    100058: RFingerA1
+    100060: RFingerB1
+    100062: RFoot
+    100064: RForeArm
+    100066: RHand
+    100068: RHandEX
+    100070: RLeg
+    100072: RShoulder
+    100074: RThigh
+    100076: RToe
+    100078: //RootNode
+    100080: Spine1
+    100082: Spine2
+    100084: sw_parts01
+    100086: tr0162_00_fi
+    100088: Waist
+    400000: Armature
+    400002: BagA
+    400004: BagB
+    400006: BagC
+    400008: Hair1
+    400010: Hair2
+    400012: Head
+    400014: Hips
+    400016: LArmA
+    400018: LFingerA1
+    400020: LFingerB1
+    400022: LFoot
+    400024: LForeArm
+    400026: LHand
+    400028: LHandEX
+    400030: LLeg
+    400032: loc_eye
+    400034: loc_head
+    400036: loc_mouth
+    400038: LShoulder
+    400040: LThigh
+    400042: LToe
+    400044: mesh_0_bag
+    400046: mesh_1_face
+    400048: mesh_2_hair
+    400050: mesh_3_sw_parts01
+    400052: Neck
+    400054: Origin
+    400056: RArmA
+    400058: RFingerA1
+    400060: RFingerB1
+    400062: RFoot
+    400064: RForeArm
+    400066: RHand
+    400068: RHandEX
+    400070: RLeg
+    400072: RShoulder
+    400074: RThigh
+    400076: RToe
+    400078: //RootNode
+    400080: Spine1
+    400082: Spine2
+    400084: sw_parts01
+    400086: tr0162_00_fi
+    400088: Waist
+    2100000: tr0162_bodyMat_001
+    2100002: tr0162_faceMat_001
+    2100004: tr0162_headMat_001
+    4300000: mesh_0_bag
+    4300002: mesh_3_sw_parts01
+    4300004: mesh_1_face
+    4300006: mesh_2_hair
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: mesh_0_bag
+    13700002: mesh_1_face
+    13700004: mesh_2_hair
+    13700006: mesh_3_sw_parts01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tr0162_bodyMat_001
+    second: {fileID: 2100000, guid: a3c715b80efed8f489596d9966877d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tr0162_faceMat_001
+    second: {fileID: 2100000, guid: ffef4d21867e88d4f9317af1b6f5feae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tr0162_headMat_001
+    second: {fileID: 2100000, guid: a410dee6d0ee6044e930f215ec280681, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tr0162_body
+    second: {fileID: 2800000, guid: c29561c84200a0c409a019c295d8f6f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tr0162_face
+    second: {fileID: 2800000, guid: 0dfc0fdca6add52448ef18ee4c0a6896, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tr0162_head
+    second: {fileID: 2800000, guid: 5a5a1f18ff088ea40a62d97e879bff52, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

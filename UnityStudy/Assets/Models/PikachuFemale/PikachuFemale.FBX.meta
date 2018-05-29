@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 7da3b15c26ed3ae4c8ea55df8cc522f8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: EndFeeler
+    100002: EndHead
+    100004: EndHips
+    100006: EndLEar3
+    100008: EndLFoot
+    100010: EndLHand
+    100012: EndLToe
+    100014: EndREar3
+    100016: EndRFoot
+    100018: EndRHand
+    100020: EndRToe
+    100022: EndTail3
+    100024: Feeler
+    100026: Head
+    100028: Hips
+    100030: LArm
+    100032: LEar1
+    100034: LEar2
+    100036: LEar3
+    100038: LFoot
+    100040: LForeArm
+    100042: LHand
+    100044: LLeg
+    100046: LShoulder
+    100048: LThigh
+    100050: LToe
+    100052: Origin
+    100054: PikachuF
+    100056: //RootNode
+    100058: pm0025_00_BodySkin
+    100060: pm0025_00_pikachu
+    100062: pm0025_01_SippoSkin
+    100064: RArm
+    100066: REar1
+    100068: REar2
+    100070: REar3
+    100072: RFoot
+    100074: RForeArm
+    100076: RHand
+    100078: RLeg
+    100080: RShoulder
+    100082: RThigh
+    100084: RToe
+    100086: Spine1
+    100088: Spine2
+    100090: Tail1
+    100092: Tail2
+    100094: Tail3
+    100096: VriVis01
+    100098: Waist
+    400000: EndFeeler
+    400002: EndHead
+    400004: EndHips
+    400006: EndLEar3
+    400008: EndLFoot
+    400010: EndLHand
+    400012: EndLToe
+    400014: EndREar3
+    400016: EndRFoot
+    400018: EndRHand
+    400020: EndRToe
+    400022: EndTail3
+    400024: Feeler
+    400026: Head
+    400028: Hips
+    400030: LArm
+    400032: LEar1
+    400034: LEar2
+    400036: LEar3
+    400038: LFoot
+    400040: LForeArm
+    400042: LHand
+    400044: LLeg
+    400046: LShoulder
+    400048: LThigh
+    400050: LToe
+    400052: Origin
+    400054: PikachuF
+    400056: //RootNode
+    400058: pm0025_00_BodySkin
+    400060: pm0025_00_pikachu
+    400062: pm0025_01_SippoSkin
+    400064: RArm
+    400066: REar1
+    400068: REar2
+    400070: REar3
+    400072: RFoot
+    400074: RForeArm
+    400076: RHand
+    400078: RLeg
+    400080: RShoulder
+    400082: RThigh
+    400084: RToe
+    400086: Spine1
+    400088: Spine2
+    400090: Tail1
+    400092: Tail2
+    400094: Tail3
+    400096: VriVis01
+    400098: Waist
+    2100000: 'Material #160'
+    2100002: 'Material #161'
+    2100004: 'Material #162'
+    2100006: 'Material #163'
+    4300000: PikachuF
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: PikachuF
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #160'
+    second: {fileID: 2100000, guid: 07311abeb6d3e6d4091ca07d71d6fd40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #161'
+    second: {fileID: 2100000, guid: ce68c36f1603f214b9981415505964fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #162'
+    second: {fileID: 2100000, guid: 221c2f7c770e86f4b8462c24e56e6ddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #163'
+    second: {fileID: 2100000, guid: cf9eea31366f5554591a5b816a5c1b7e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_BodyA1
+    second: {fileID: 2800000, guid: 256235b86801f9347973ad1f9fac0893, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_BodyB1
+    second: {fileID: 2800000, guid: c3e385b4bdbd9d342af1e7144b1534ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_Eye1
+    second: {fileID: 2800000, guid: 66d3c51c28d572c4c8690f46b984f35a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_Mouth1
+    second: {fileID: 2800000, guid: ec040090da77ae742b45fd8d7d8c52fc, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
